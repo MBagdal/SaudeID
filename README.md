@@ -1,7 +1,7 @@
 # SAUDEID
 Teste de processo seletivo
 ## Como Usar
-Faça o clone deste projeto em seu computador.
+Faça o clone deste projeto em seu computador e acesse a pasta do projeto.
 
 ainda no terminal, rode o seguinte comando:
 ```console
@@ -11,7 +11,6 @@ saude@id: npm install
 após a instalação dos pacotes, execute o seguinte comando:
 ```console
 foo@bar: npm run dev
-foo
 ```
 
 através do postman( ou algum aplicativo de preferencia), acesse as seguintes url:
